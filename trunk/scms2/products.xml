@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <description>product data table</description>
+  <computerList>
+    <computer>
+      <number>P0001</number>
+      <name>Computer 01</name>
+      <comment>Business Computer</comment>
+      <component>M0002,M0008,M0011,M0019</component>
+    </computer>
+    <computer>
+      <number>P0002</number>
+      <name>Computer 02</name>
+      <comment>Business Computer</comment>
+      <component>M0001,M0005,M0012,M0017</component>
+    </computer>
+    <computer>
+      <number>P0003</number>
+      <name>Computer 03</name>
+      <comment>Business Computer</comment>
+      <component>M0004,M0009,M0015,M0022</component>
+    </computer>
+    <computer>
+      <number>P0004</number>
+      <name>Computer 04</name>
+      <comment>Home Computer</comment>
+      <component>M0003,M0008,M0014,M0023</component>
+    </computer>
+    <computer>
+      <number>P0005</number>
+      <name>Computer 05</name>
+      <comment>Home Computer</comment>
+      <component>M0002,M0010,M0013,M0017</component>
+    </computer>
+  </computerList>
+</products>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<materials>
+  <description>materials data table</description>
+  <partList>
+    <part>
+      <number>M0001</number>
+      <name>SAMSUNG T2250</name>
+      <comment>PC Monitor</comment>
+      <quantity>20</quantity>
+    </part>
+    <part>
+      <number>M0002</number>
+      <name>SAMSUNG P2370</name>
+      <comment>PC Monitor</comment>
+      <quantity>35</quantity>
+    </part>
+    <part>
+      <number>M0003</number>
+      <name>GreatWall 205</name>
+      <comment>PC Monitor</comment>
+      <quantity>26</quantity>
+    </part>
+    <part>
+      <number>M0004</number>
+      <name>GreatWall M95</name>
+      <comment>PC Monitor</comment>
+      <quantity>17</quantity>
+    </part>
+    <part>
+      <number>M0005</number>
+      <name>NVIDIA GeForce 9800 GT</name>
+      <comment>Graphics Card</comment>
+      <quantity>14</quantity>
+    </part>
+    <part>
+      <number>M0006</number>
+      <name>NVIDIA GeForce 9600 GT</name>
+      <comment>Graphics Card</comment>
+      <quantity>18</quantity>
+    </part>
+    <part>
+      <number>M0007</number>
+      <name>NVIDIA Geforce GTX 260</name>
+      <comment>Graphics Card</comment>
+      <quantity>19</quantity>
+    </part>
+    <part>
+      <number>M0008</number>
+      <name>NVIDIA Geforce GTX 770</name>
+      <comment>Graphics Card</comment>
+      <quantity>23</quantity>
+    </part>
+    <part>
+      <number>M0009</number>
+      <name>NVIDIA GeForce GTX 230</name>
+      <comment>Graphics Card</comment>
+      <quantity>20</quantity>
+    </part>
+    <part>
+      <number>M0010</number>
+      <name>ATI Radeon HD 5850</name>
+      <comment>Graphics Card</comment>
+      <quantity>18</quantity>
+    </part>
+    <part>
+      <number>M0011</number>
+      <name>ASUS P5KPL-AM SE</name>
+      <comment>Main board</comment>
+      <quantity>40</quantity>
+    </part>
+    <part>
+      <number>M0012</number>
+      <name>ASUS P5QLSE</name>
+      <comment>Main board</comment>
+      <quantity>20</quantity>
+    </part>
+    <part>
+      <number>M0013</number>
+      <name>ASUS P7P55D</name>
+      <comment>Main board</comment>
+      <quantity>27</quantity>
+    </part>
+    <part>
+      <number>M0014</number>
+      <name>MSI 785GM-E65</name>
+      <comment>Main board</comment>
+      <quantity>31</quantity>
+    </part>
+    <part>
+      <number>M0015</number>
+      <name>MSI G41TM-E43</name>
+      <comment>Main board</comment>
+      <quantity>12</quantity>
+    </part>
+    <part>
+      <number>M0016</number>
+      <name>MSI 785GM-E65</name>
+      <comment>Main board</comment>
+      <quantity>12</quantity>
+    </part>
+    <part>
+      <number>M0017</number>
+      <name>Kingston 1GB DDR2 800Z</name>
+      <comment>Memory</comment>
+      <quantity>55</quantity>
+    </part>
+    <part>
+      <number>M0018</number>
+      <name>Kingston 2GB DDR2 800Z</name>
+      <comment>Memory</comment>
+      <quantity>35</quantity>
+    </part>
+    <part>
+      <number>M0019</number>
+      <name>Kingston 2GB DDR3 1333</name>
+      <comment>Memory</comment>
+      <quantity>60</quantity>
+    </part>
+    <part>
+      <number>M0020</number>
+      <name>Apacer 2GB DDR2 800</name>
+      <comment>Memory</comment>
+      <quantity>52</quantity>
+    </part>
+    <part>
+      <number>M0021</number>
+      <name>Apacer 2GB DDR3 1333</name>
+      <comment>Memory</comment>
+      <quantity>46</quantity>
+    </part>
+    <part>
+      <number>M0022</number>
+      <name>SAMSUNG 2GB DDR2 800</name>
+      <comment>Memory</comment>
+      <quantity>50</quantity>
+    </part>
+    <part>
+      <number>M0023</number>
+      <name>GEIL 2GB DDR2 800</name>
+      <comment>Memory</comment>
+      <quantity>28</quantity>
+    </part>
+  </partList>
+</materials>
